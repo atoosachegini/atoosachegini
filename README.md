@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, this is Atoosa 👋
+Feel free to contact me if you need any further information.
 
 <!--
 **atoosachegini/atoosachegini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
