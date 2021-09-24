@@ -21,6 +21,6 @@ Here are some ideas to get you started:
         <a href="https://atoosachegini.github.io/">
             <img src="https://img.icons8.com/fluency/50/000000/resume-website.png" width=32/>
         <a href="atoosachegini1379@gmail.com">
-            <img src="https://img.icons8.com/fluency/50/000000/email.png" width=32/>
+            <img src="https://img.icons8.com/fluency/50/000000/gmail.png" width=32/>
         </a>
 </div>
